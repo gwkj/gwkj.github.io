@@ -22,7 +22,7 @@
 			<key>PayloadIdentifier</key>
 			<string>com.comapp.gekj.webclip1</string>
 			<key>PayloadOrganization</key>
-			<string>果微工作室</string>
+			<string>果微科技工作室</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -40,7 +40,7 @@
 	<key>PayloadIdentifier</key>
 	<string>com.comapp.gwkj</string>
 	<key>PayloadOrganization</key>
-	<string>果微工作室</string>
+	<string>果微科技工作室</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
